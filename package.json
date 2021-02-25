@@ -1,0 +1,13 @@
+{
+  "name": "TS_blockchain",
+  "version": "1.0.0",
+  "description": "ts blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/Isaacsim/TS_blockchain.git",
+  "author": "Isaacsim <57617274+Isaacsim@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
